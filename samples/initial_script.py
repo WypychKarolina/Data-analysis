@@ -9,4 +9,4 @@ def GameOfThrones(x):
 		
 
 if __name__ == "__main__":
-	GameOfThrones(sys.argv)
+	GameOfThrones(sys.argv[1])
